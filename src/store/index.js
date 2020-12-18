@@ -48,7 +48,7 @@ export default new Vuex.Store({
   },
   getters: {
     showNum: (state) => {
-      return `最新的数量为:${state.count}`
+      return `最新的数值为:${state.count}`
     }
   },
   modules: {}
