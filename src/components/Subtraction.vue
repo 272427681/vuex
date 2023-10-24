@@ -8,6 +8,7 @@
     <button id="subtractionNSync" @click="subNSync(10)">Sync-N</button>
     <button id="sub2" @click="subSync">Sync2</button>
     <div>merge1</div>
+    <div>merge2</div>
   </div>
 </template>
 
