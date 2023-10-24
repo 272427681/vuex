@@ -9,6 +9,7 @@
     <button id="sub2" @click="subSync">Sync2</button>
     <div>merge1</div>
     <div>merge2</div>
+    <div>merge3</div>
   </div>
 </template>
 
