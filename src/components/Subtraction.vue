@@ -6,6 +6,7 @@
     <button id="subtractionN" @click="handleSubN">-N</button>
     <button id="subtractionSync" @click="subSync">Sync-</button>
     <button id="subtractionNSync" @click="subNSync(10)">Sync-N</button>
+    <button id="sub2" @click="subSync">Sync2</button>
   </div>
 </template>
 
